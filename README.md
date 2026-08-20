@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
