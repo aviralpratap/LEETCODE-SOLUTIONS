@@ -19,7 +19,7 @@ public:
         
         for(int i=0;i<nums.size();i++){
             int count=0;
-            for(int j=i+1;j<nums.size();j++){
+            for(int j=i;j<nums.size();j++){
                 if(nums[i]==nums[j]){
                     count++;
                     
@@ -27,7 +27,7 @@ public:
                 }
 
             }
-            if (count>=n) {
+            if (count>n) {
                 bool already = false;
 
                 for (int k = 0; k < arr.size(); k++) {
