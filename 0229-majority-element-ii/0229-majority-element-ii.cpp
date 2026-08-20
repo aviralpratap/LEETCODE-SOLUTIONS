@@ -1,46 +1,22 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int n=nums.size()/3;
-        vector<int> arr;
-        if(nums.size()==1){
-            return nums;
-        }
-        else if(nums.size()==2){
-            if(nums[0]!=nums[1]){
-                return nums;
-            }
-            else{
-                arr.push_back(nums[0]);
-                return arr;
-            }
-        }
-        
-        
-        for(int i=0;i<nums.size();i++){
-            int count=0;
-            for(int j=i;j<nums.size();j++){
-                if(nums[i]==nums[j]){
-                    count++;
-                    
-            
-                }
 
-            }
-            if (count>n) {
-                bool already = false;
+        unordered_map<int, int> mp;
+        vector<int> ans;
 
-                for (int k = 0; k < arr.size(); k++) {
-                    if (arr[k] == nums[i]) {
-                        already = true;
-                    }
-                }
-                if (!already) {
-                    arr.push_back(nums[i]);
-                }
-            }     
-
+        // Count frequency of every element
+        for (int x : nums) {
+            mp[x]++;
         }
-        return arr;
+
+        // Check which elements appear more than n/3 times
+        for (auto x : mp) {
+            if (x.second > nums.size() / 3) {
+                ans.push_back(x.first);
+            }
+        }
+
+        return ans;
     }
 };
