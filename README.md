@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -46,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
