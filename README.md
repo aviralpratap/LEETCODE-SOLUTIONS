@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
 |  |
