@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
 | [2469-convert-the-temperature](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -80,4 +81,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
