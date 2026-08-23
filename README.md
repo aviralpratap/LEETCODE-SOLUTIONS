@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
