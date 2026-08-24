@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0088-merge-sorted-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
