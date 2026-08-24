@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [3731-find-missing-elements](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
