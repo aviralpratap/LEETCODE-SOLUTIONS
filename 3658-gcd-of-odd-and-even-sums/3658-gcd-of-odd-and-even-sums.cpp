@@ -3,16 +3,16 @@ public:
     int gcdOfOddEvenSums(int n) {
         int oddsum=0;
         int evensum=0;
-        for(int i=1;i<2*n;i++){
+        for(int i=1;i<=2*n;i++){
             if(i%2!=0) oddsum+=i;
             else evensum+=i;
         }
-         while(evensum!=0) {
-            int rem=oddsum%evensum;
-            oddsum=evensum;
-            evensum=rem;
+        if(evensum==0){
+            return 1;
         }
-
-        return oddsum;
+        else{
+            return gcd(oddsum,evensum);
+        }
+        
     }
 };
