@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3731-find-missing-elements](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## String
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Greedy
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
