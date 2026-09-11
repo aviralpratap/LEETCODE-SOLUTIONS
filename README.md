@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3945-digit-frequency-score) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
