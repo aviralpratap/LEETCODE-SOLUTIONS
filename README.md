@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
+| [0836-rectangle-overlap](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2413-smallest-even-multiple) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
