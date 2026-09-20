@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
