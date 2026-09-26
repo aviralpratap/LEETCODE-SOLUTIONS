@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0507-perfect-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1952-three-divisors) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -222,4 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
