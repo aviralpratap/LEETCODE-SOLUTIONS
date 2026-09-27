@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0344-reverse-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3110-score-of-a-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
