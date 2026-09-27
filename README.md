@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0836-rectangle-overlap) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/aviralpratap/LEETCODE-SOLUTIONS/tree/master/0509-fibonacci-number) |
